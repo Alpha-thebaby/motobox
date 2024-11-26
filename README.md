@@ -1,4 +1,4 @@
-![Motobox banner](https://cdn.modrinth.com/data/mw9W1jZT/images/cfaf398e31b35a2c40ada3024049f260ea945216.png)
+![68747470733a2f2f63646e2e6d6f6472696e74682e636f6d2f646174612f6d773957316a5a542f696d616765732f636661663339386533316233356132633430616461333032343034396632363065613934353231362e706e67](https://github.com/user-attachments/assets/99d4e457-d03d-445a-b510-82220d13166a)
 
 ![](https://img.shields.io/badge/Mod_Loader-Fabric-6a6a6a?style=for-the-badge&labelColor=272727)
 [![](https://img.shields.io/badge/-Github-6a6a6a?style=for-the-badge&labelColor=272727&logo=github)](https://github.com/Project-Alphaa/Motobox)
